@@ -32,7 +32,7 @@
     },
     {
       "id": 987,
-      "category": food",
+      "category": "food",
       "title": "Cook Yourself",
       "description": "Help to peaple learn how to cook.",
       "location": "Mercado central",
