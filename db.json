@@ -29,26 +29,6 @@
       "date": "July 22, 2022",
       "time": "11:00",
       "organizer": "Carey Wales"
-    },
-    {
-      "id": 987,
-      "category": "food",
-      "title": "Cook Yourself",
-      "description": "Help to peaple learn how to cook.",
-      "location": "Mercado central",
-      "date": "Augost 02, 2022",
-      "time": "13:00",
-      "organizer": "Anna Kotelnikova"
-    },
-    {
-      "id": 654,
-      "category": "culture",
-      "title": "Read Good",
-      "description": "Help to learn reading.",
-      "location": "Biblioteca",
-      "date": "September 10, 2022",
-      "time": "11:00",
-      "organizer": "Sofia Rivera"
     }
   ]
 }
