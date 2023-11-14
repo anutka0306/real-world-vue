@@ -34,8 +34,18 @@
       "id": 987,
       "category": "food",
       "title": "How to cook",
-      "description": "Help pick up trash along the shore.",
-      "location": "Playa Del Carmen",
+      "description": "Help to learn cook.",
+      "location": "Mercado Central",
+      "date": "July 22, 2022",
+      "time": "11:00",
+      "organizer": "Carey Wales"
+    },
+    {
+      "id": 654,
+      "category": "book",
+      "title": "How to read",
+      "description": "Help to learn read.",
+      "location": "Biblioteca",
       "date": "July 22, 2022",
       "time": "11:00",
       "organizer": "Carey Wales"
