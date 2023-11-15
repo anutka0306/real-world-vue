@@ -37,4 +37,19 @@ import { RouterLink, RouterView } from 'vue-router'
   h2 {
     font-size: 20px;
   }
+  #nav {
+    padding: 30px;
+  }
+  #nav a {
+    font-weight: bold;
+    color: #2c3e50;
+    margin-right: 10px;
+    font-size: 14px;
+    text-decoration: none;
+    text-transform: uppercase;
+  }
+  #nav a.router-link-exact-active {
+    color: #42b983;
+    text-decoration: underline;
+  }
 </style>
